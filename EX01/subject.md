@@ -1,4 +1,4 @@
-# CRIPTOGRAFÍA\
+# CRIPTOGRAFÍA
 Tuvimos que esconder los guiños\
 con argucias, con engaños\
 respetamos cada espacio\
