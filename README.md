@@ -17,7 +17,7 @@ Cada carpeta dentro de este repositorio corresponde a un desafío específico de
 
 ## Desafíos Completados
 
-1. [Desafío 1 - Título del Desafío](https://github.com/javiburn/El-Reto-Mas-Dificil/tree/main/EX01)
+1. [Desafío 1 - Criptografía](https://github.com/javiburn/El-Reto-Mas-Dificil/tree/main/EX01)
    - Descripción: Reto sobre criptografía.
    - [Solución](https://github.com/javiburn/El-Reto-Mas-Dificil/blob/main/EX01/solucion.c)
 
