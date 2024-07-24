@@ -10,4 +10,4 @@ mas cuanto más valor más valen.
 ¿Cómo llenamos el barco\
 para hacernos millonarios?
 
-![alt text](https://raw.githubusercontent.com/Next-Digital-Hub/el-reto/main/challenge.02/challenge.02.03.)png
+![Treasure](https://raw.githubusercontent.com/Next-Digital-Hub/el-reto/main/challenge.02/challenge.02.03.png)
